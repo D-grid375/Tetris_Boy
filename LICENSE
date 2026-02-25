@@ -1,0 +1,59 @@
+Copyright (c) 2026 d_grid
+All rights reserved.
+
+------------------------------------------------------------
+日本語版（参考・閲覧目的公開ライセンス）
+------------------------------------------------------------
+
+本リポジトリに含まれるソースコードおよび関連資料（以下「本作品」）は、
+設計内容の解説および学習・閲覧目的のためにのみ公開されています。
+
+著作権は著作者に帰属し、明示的に許可された場合を除き、
+いかなる権利も利用者に付与されません。
+
+■ 許可される行為
+・ソースコードの閲覧
+・個人的な学習目的でのローカルコピー
+・個人的な検証・実験・私的利用
+・GitHub上でのFork（公開しない範囲の個人利用に限る）
+
+■ 禁止される行為
+・ソースコードの再配布（改変の有無を問わない）
+・改変版の公開
+・本作品を用いた製品化、販売、商用利用
+・本作品を基にしたハードウェアの製造および頒布
+・本作品を再現した制作物の公開（動画投稿・記事公開・配布等を含む）
+・本作品を主要構成要素とするプロジェクトの公開
+・その他、著作権法により許可されない利用
+
+本作品は「現状のまま」提供され、明示的または黙示的を問わず、
+いかなる保証も行いません。
+本作品の使用によって生じたいかなる損害についても著作者は責任を負いません。
+
+------------------------------------------------------------
+English version (Reference-only license)
+------------------------------------------------------------
+
+This repository and all source code and related materials
+(the "Work") are provided for reference and educational reading purposes only.
+
+All rights are reserved by the author.
+No rights are granted except those explicitly stated below.
+
+You are permitted to:
+- View the source code
+- Make local copies for personal study
+- Use privately for experimentation
+- Fork the repository for private, non-public use
+
+You are NOT permitted to:
+- Redistribute the Work
+- Publish modified versions
+- Use the Work in commercial products
+- Manufacture or distribute hardware based on the Work
+- Publish reproductions or derivative works
+  (including videos, articles, or public demonstrations of replicated devices)
+- Publish projects substantially based on the Work
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE WORK.
